@@ -7,3 +7,6 @@
   echo "      |                       |"
   echo "      ========================="
 
+
+Paste above code in .bashrc file in termux home directory , you will get new look to your termux
+
